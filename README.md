@@ -18,7 +18,7 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
 - [x] Create a Stateless Widget;
 - [x] Create a Stateful Widget;
 - [x] Make it Interactive;
-- [ ] Randomise it;
+- [x] Randomise it;
 - [ ] Update the State.
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
