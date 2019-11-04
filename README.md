@@ -16,7 +16,7 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
 
 
 - [x] Create a Stateless Widget;
-- [ ] Create a Stateful Widget;
+- [x] Create a Stateful Widget;
 - [ ] Make it Interactive;
 - [ ] Randomise it;
 - [ ] Update the State.
